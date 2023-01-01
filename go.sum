@@ -6,3 +6,5 @@ github.com/matthewfinger/golang_greetings v0.1.2 h1:hEUrT0XXc6g8OEl6Sp5gJGRu/itz
 github.com/matthewfinger/golang_greetings v0.1.2/go.mod h1:/ssSRTIBFAc9ttPdGeCCU3c7TSwJVOBTq+SOQuKQM+E=
 github.com/matthewfinger/golang_greetings v1.0.0 h1:5fXjNVg3PdM/QE9ndY8amPr+bFQiHg+bjgbgcUj5alc=
 github.com/matthewfinger/golang_greetings v1.0.0/go.mod h1:/ssSRTIBFAc9ttPdGeCCU3c7TSwJVOBTq+SOQuKQM+E=
+github.com/matthewfinger/golang_greetings v1.0.1 h1:KLOZzhxEqsE1ZG9y9+RuscssqKhY4fV0eDfXbTIjCs0=
+github.com/matthewfinger/golang_greetings v1.0.1/go.mod h1:/ssSRTIBFAc9ttPdGeCCU3c7TSwJVOBTq+SOQuKQM+E=
