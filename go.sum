@@ -1,2 +1,8 @@
 github.com/matthewfinger/golang_greetings v0.1.0-alpha h1:y5jpaEUNZ7DNC5JAYia82HUvwVBLNL6WYGohsbWwGRk=
 github.com/matthewfinger/golang_greetings v0.1.0-alpha/go.mod h1:/ssSRTIBFAc9ttPdGeCCU3c7TSwJVOBTq+SOQuKQM+E=
+github.com/matthewfinger/golang_greetings v0.1.1 h1:9yZAr1n1BABX+FaC1NitHwFajGLu0l9Uwx7G0o2Wcg8=
+github.com/matthewfinger/golang_greetings v0.1.1/go.mod h1:/ssSRTIBFAc9ttPdGeCCU3c7TSwJVOBTq+SOQuKQM+E=
+github.com/matthewfinger/golang_greetings v0.1.2 h1:hEUrT0XXc6g8OEl6Sp5gJGRu/itzz5Qi7NWMD1TItjI=
+github.com/matthewfinger/golang_greetings v0.1.2/go.mod h1:/ssSRTIBFAc9ttPdGeCCU3c7TSwJVOBTq+SOQuKQM+E=
+github.com/matthewfinger/golang_greetings v1.0.0 h1:5fXjNVg3PdM/QE9ndY8amPr+bFQiHg+bjgbgcUj5alc=
+github.com/matthewfinger/golang_greetings v1.0.0/go.mod h1:/ssSRTIBFAc9ttPdGeCCU3c7TSwJVOBTq+SOQuKQM+E=
